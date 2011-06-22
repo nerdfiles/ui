@@ -1,0 +1,4 @@
+Options +Indexes +MultiViews +FollowSymlinks
+<IfModule mod_autoindex.c>
+ IndexOptions FancyIndexing IconHeight=16 IconWidth=16 NameWidth=30 DescriptionWidth=30 IconsAreLinks SuppressHTMLPreamble
+</ifModule>
